@@ -1,3 +1,2 @@
 numpy
-plotly.plotly
-plotly.graph_objs
+plotly
